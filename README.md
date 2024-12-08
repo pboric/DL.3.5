@@ -46,11 +46,12 @@ pip install -r requirements.txt
 ```
 .
 ├── notebooks/
+|   ├── EDA.ipynb 
 │   ├── v0.ipynb        # Initial implementation
 │   ├── v1.ipynb        # Enhanced architecture
-│   └── v2.ipynb          # Final version with all improvements
+│   └── v2.ipynb        # Final version with all improvements
 ├── data/
-│   └── UTKFace/                # Dataset directory
+│   └── UTKFace/        # Dataset directory
 ├── README.md
 └── requirements.txt
 ```
